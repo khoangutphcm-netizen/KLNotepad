@@ -1,0 +1,16 @@
+{
+  "name": "KL's NoteApp",
+  "short_name": "NoteApp",
+  "description": "Ứng dụng ghi chú bảo mật và tiện lợi",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzI1NjNlYiI+PHBhdGggZD0iTTE5IDNoLTVWMWgtMnYyaC01YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxM2EyIDIgMCAwIDAgMi0yVjVhMiAyIDAgMCAwLTItMnptLTEgMThINVY1aDEzdjE2em0tMTAtNWg4djJoLTh6bTAtNGg4djJoLTh6bTAtNGg4djJoLTh6Ii8+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
